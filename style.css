@@ -1,0 +1,17 @@
+.jumbotron img {
+  width: 200px;
+}
+
+.jumbotron {
+  background-color: lightcyan;
+  padding: 2rem 1rem;
+}
+
+#projects {
+  background-color: lightcyan;
+}
+
+.card img {
+  object-fit: cover;
+  object-position: center;
+}
